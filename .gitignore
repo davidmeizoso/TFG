@@ -6,3 +6,4 @@ data/raw/
 data/processed/
 .env
 .DS_Store
+NOTES.txt
